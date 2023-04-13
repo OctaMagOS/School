@@ -1,3 +1,3 @@
 # School
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https:/ gitpod.io/#https:github.com/OctaMagOS/School/edit/main/README.md)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://octamagos-school-vao9pu58q12.ws-us94.gitpod.io/)
 
